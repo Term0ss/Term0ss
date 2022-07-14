@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bober7757
 - 👀 I’m interested in C#, HTML and Discord.js
-- 🌱 I’m currently learning HTML
+- 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
