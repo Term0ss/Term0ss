@@ -1,3 +1,5 @@
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Term0ss)
+
 Jak chcesz to se kradnij, ale nie będe gwarantował że wszystko będzie dozwolone :p 
 Tak szczerze to lubie Pythona i C#
 
