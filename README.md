@@ -11,6 +11,6 @@ Tak szczerze to lubie Pythona i C#
           
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Touch+some+grass.;You+stupid+monkey.;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Touch+some+grass.;You+monkey.;Wash+your+self.;)](https://git.io/typing-svg)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Term0ss&show_icons=true&locale=en&layout=compact" alt="Term0ss" /></p>  
